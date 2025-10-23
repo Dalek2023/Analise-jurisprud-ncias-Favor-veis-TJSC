@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Analisador de Jurisprudência com Gemini",
+  "description": "Uma aplicação web para analisar textos jurídicos, encontrar jurisprudências compatíveis e gerar imagens criativas utilizando a API do Gemini. Ferramenta de alta performance para profissionais do direito e entusiastas.",
+  "requestFramePermissions": []
+}
